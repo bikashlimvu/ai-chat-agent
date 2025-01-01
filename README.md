@@ -93,11 +93,11 @@ To ensure the API key is not accidentally shared or exposed:
 
 1. Add the .env file to .gitignore:
 
-   ````bash
+   ```bash
    echo ".env" >> .gitignore
-    ```
-   Double-check that your .env file is not included in your version control system.
-   ````
+   ```
+
+Double-check that your .env file is not included in your version control system.
 
 Always keep your API key private.
 
